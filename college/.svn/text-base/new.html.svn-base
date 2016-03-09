@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>新闻动态</title>
+		<link rel="stylesheet" type="text/css" href="css/reset.css" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<link rel="stylesheet" type="text/css" href="css/mediaStyle.css" />
+		<script src="js/html5.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/respond.js" type="text/javascript" charset="utf-8"></script>
+
+	</head>
+
+	<body>
+		<header class="index_head">
+			<ul>
+				<li><a href="index.html">首页</a></li>
+				<li><a href="scholastic.html">学院概况</a></li>
+				<li style="border-bottom: 2px solid red;"><a href="new.html">新闻动态</a></li>
+				<li><a href="humanism.html">就业明星</a></li>
+				<li><a href="learning.html">师资力量</a></li>
+				<li><a href="Kultur.html">文化生活</a></li>
+				<li><a href="contact.html">联系我们</a></li>
+				<li><a href="H5Engineering.html">H5工程</a></li>
+			</ul>
+		</header>
+		<div class="subBanner">
+			<img src="img/bannerG.jpg" />
+		</div>
+		<div class="new_main">
+			<div class="index_mian_one_new_top">
+				<div class="left">
+					<h1>最新新闻</h1>
+					<h2>HOT NEWS</h2>
+				</div>
+			</div>
+			<div class="list">
+				<div class="img">
+					<img src="img/new_01.jpg" />
+				</div>
+				<div class="new">
+					<h1><a href="newDetail.html">山东矿机速度来看风景阿萨德了罚款</a><span>2014.08.08</span></h1>
+					<p>山东矿机速度来看风景阿萨德了罚款山东矿机速度来看风景阿萨德了罚款</p>
+
+				</div>
+
+			</div>
+			<div class="list">
+				<div class="img">
+					<img src="img/new_02.jpg" />
+				</div>
+				<div class="new">
+					<h1><a href="newDetail.html">山东矿机速度来看风景阿萨德了罚款</a><span>2014.08.08</span></h1>
+					<p>山东矿机速度来看风景阿萨德了罚款山东矿机速度来看风景阿萨德了罚款</p>
+
+				</div>
+
+			</div>
+			<div class="list">
+				<div class="img">
+					<img src="img/new_03.jpg" />
+				</div>
+				<div class="new">
+					<h1><a href="newDetail.html">山东矿机速度来看风景阿萨德了罚款</a><span>2014.08.08</span></h1>
+					<p>山东矿机速度来看风景阿萨德了罚款山东矿机速度来看风景阿萨德了罚款</p>
+
+				</div>
+
+			</div>
+			<div class="list">
+				<div class="img">
+					<img src="img/new_04.jpg" />
+				</div>
+				<div class="new">
+					<h1><a href="newDetail.html">山东矿机速度来看风景阿萨德了罚款</a><span>2014.08.08</span></h1>
+					<p>山东矿机速度来看风景阿萨德了罚款山东矿机速度来看风景阿萨德了罚款</p>
+
+				</div>
+
+			</div>
+			<div class="list">
+				<div class="img">
+					<img src="img/new_02.jpg" />
+				</div>
+				<div class="new">
+					<h1><a href="newDetail.html">山东矿机速度来看风景阿萨德了罚款</a><span>2014.08.08</span></h1>
+					<p>山东矿机速度来看风景阿萨德了罚款山东矿机速度来看风景阿萨德了罚款</p>
+
+				</div>
+
+			</div>
+			<ul class="lapel">
+				<li><a href="#">上一页</a></li>
+				<li><a href="#">1</a></li>
+				<li><a href="#">下一页</a></li>
+			</ul>
+
+		</div>
+		<footer class="index_footer">
+			<div class="footerMain">
+				<ul class="navUl">
+					<li><a href="index.html">首页</a></li>
+					<li><a href="scholastic.html">学院概况</a></li>
+					<li><a href="new.html">新闻动态</a></li>
+					<li><a href="humanism.html">就业明星</a></li>
+					<li><a href="learning.html">师资力量</a></li>
+					<li><a href="Kultur.html">文化生活</a></li>
+					<li><a href="contact.html">联系我们</a></li>
+					<li><a href="H5Engineering.html">H5工程</a></li>
+				</ul>
+				<p>
+					&copy; 2015 学校 版权所有
+				</p>
+				<ul class="listUl">
+					<li>技术支持： <a href="#">凡科建站</a></li>
+					<li>|</li>
+					<li><a href="#">手机版</a></li>
+					<li>|</li>
+					<li><a href="#">管理登陆</a></li>
+				</ul>
+			</div>
+		</footer>
+	</body>
+	
+</html>

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>师资力量</title>
+		<link rel="stylesheet" type="text/css" href="css/reset.css" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<link rel="stylesheet" type="text/css" href="css/mediaStyle.css" />
+		<script src="js/html5.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/respond.js" type="text/javascript" charset="utf-8"></script>
+
+	</head>
+
+	<body>
+		<header class="index_head">
+			<ul>
+				<li><a href="index.html">首页</a></li>
+				<li><a href="scholastic.html">学院概况</a></li>
+				<li><a href="new.html">新闻动态</a></li>
+				<li><a href="humanism.html">就业明星</a></li>
+				<li style="border-bottom: 2px solid red;"><a href="learning.html">师资力量</a></li>
+				<li><a href="Kultur.html">文化生活</a></li>
+				<li><a href="contact.html">联系我们</a></li>
+				<li><a href="H5Engineering.html">H5工程</a></li>
+			</ul>
+		</header>
+		<div class="subBanner">
+			<img src="img/bannerS.jpg" />
+		</div>
+		<div class="learning_main">
+			<div class="index_mian_one_new_top">
+				<div class="left">
+					<h1>导师概括</h1>
+					<h2>SUMMARY TUTOR</h2>
+				</div>
+			</div>
+			<div class="LearningMain_list">
+				<ul>
+					<li>院长：李春生北财改革新模式的第一位院长，2012年从新媒体学院没有一个老师，没有一位学生做起，从没人敢承诺对口就业，到就好业，到2014年学院规模做到570多学生，后学院更名为视觉工程学院，任院长，开设H5专业实验专业交互工程专业，学院15年学院突破1000人，分成两个分院，保留视觉工程学院和H5工程学院，现任H5工程专业院长，是北财从2012年改革以来自始至现在的一位院长。</li>
+					<li>刘砚宏主任：毕业于哈尔滨工业大学，8年行业项目开发经验与6年教学经验，（做过嘉兴医疗网移动端项目，大庆百合会计网响应试项目，优债网管理平台pc端项目）。</li>
+					<li>张伟芝主任：北京航空航天硕士毕业9年项目经验，5年教学经验，（做过广铁集团剧毒品项目，铁道部危险品项目，交管局交通违法项目，虚拟校园项目等）。</li>
+					<li>戴翠怡，荆冠然，赵益军等17名有多年行业经验的师资队伍，雄厚的师资队伍，让您站在巨人的肩膀上，快速成功。</li>
+				</ul>
+			</div>
+			<div id="service">
+				<!--标题+内容-->
+				<div id="learningMain">
+					<!--标题-->
+					<div class="scholastic_main_overview">
+						<h1><b>■</b>图文简介</h1>
+					</div>
+					<!--内容-->
+					<div id="service_content">
+						<ul>
+							<li>
+								<div id="sinfo">
+									<img src="img/teacherLY.jpg" />
+								</div>
+								<div id="detail">
+									<p>
+										李春生——H5工程学院院长 曾任日本动画公司总监。 多家教育机构顾问。
+									</p>
+								</div>
+							</li>
+							<li>
+								<div id="sinfo">
+									<img src="img/teacherDCY.jpg" />
+								</div>
+								<div id="detail">
+									<p>
+										戴翠怡——交互工程讲师 毕业于牡丹江师范学院主修美术教育。5年的web前端的开发与制作经验,制作天缘大道中医养生网站设计制作中关村高洪电商网站策划制作4年的教育经验，曾在北京新华做网站前端开发讲师和网站开发课程教育工作。
+									</p>
+								</div>
+							</li>
+							<li>
+								<div id="sinfo">
+									<img src="img/teacherJGR.jpg" />
+								</div>
+								<div id="detail">
+									<p>
+										荆冠然-前端开发高级讲师 毕业于清华大学，主攻计算机与生活专业9年的编码工作经验。曾就职于中国移动政企，对教育健康产品有深刻的理解。在项目中任职项目经理，有丰富的管理经验。在教育行业和健康行业有深刻的研究。
+									</p>
+								</div>
+							</li>
+							<li>
+								<div id="sinfo">
+									<img src="img/teacherLYH.png" />
+								</div>
+								<div id="detail">
+									<p>
+										刘砚宏主任，毕业于哈尔滨工业大学，8年行业项目开发经验与6年教学经验， （做过嘉兴医疗网移动端项目，大庆百合会计网响应试项目，优债网管理平台pc端项目）；
+									</p>
+								</div>
+							</li>
+							<li>
+								<div id="sinfo">
+									<img src="img/teacherZWZ.png" />
+
+								</div>
+								<div id="detail">
+									<p>
+										张伟芝主任，北京航空航天硕士毕业9年项目经验， 5年教学经验，（做过广铁集团剧毒品项目， 铁道部危险品项目，交管局交通违法项目，虚拟校园项目等）
+									</p>
+								</div>
+							</li>
+							<li>
+								<div id="sinfo">
+									<img src="img/teacher1.jpg" />
+
+								</div>
+								<div id="detail">
+									<p>
+										高端品牌网站设计/ 电商平台建设/ 营销类网站/ 响应式网页设计/ 手机网页开发
+									</p>
+								</div>
+							</li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="clear">
+
+			</div>
+		</div>
+		<footer class="index_footer">
+			<div class="footerMain">
+				<ul class="navUl">
+					<li><a href="index.html">首页</a></li>
+					<li><a href="scholastic.html">学院概况</a></li>
+					<li><a href="new.html">新闻动态</a></li>
+					<li><a href="humanism.html">就业明星</a></li>
+					<li><a href="learning.html">师资力量</a></li>
+					<li><a href="Kultur.html">文化生活</a></li>
+					<li><a href="contact.html">联系我们</a></li>
+					<li><a href="H5Engineering.html">H5工程</a></li>
+				</ul>
+				<p>
+					&copy; 2015 学校 版权所有
+				</p>
+				<ul class="listUl">
+					<li>技术支持： <a href="#">凡科建站</a></li>
+					<li>|</li>
+					<li><a href="#">手机版</a></li>
+					<li>|</li>
+					<li><a href="#">管理登陆</a></li>
+				</ul>
+			</div>
+		</footer>
+	</body>
+	
+</html>

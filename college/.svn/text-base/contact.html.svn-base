@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>联系我们</title>
+		<link rel="stylesheet" type="text/css" href="css/reset.css" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<link rel="stylesheet" type="text/css" href="css/mediaStyle.css" />
+		<script src="js/html5.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/respond.js" type="text/javascript" charset="utf-8"></script>
+
+	</head>
+
+	<body>
+		<header class="index_head">
+			<ul>
+				<li><a href="index.html">首页</a></li>
+				<li><a href="scholastic.html">学院概况</a></li>
+				<li><a href="new.html">新闻动态</a></li>
+				<li><a href="humanism.html">就业明星</a></li>
+				<li><a href="learning.html">师资力量</a></li>
+				<li><a href="Kultur.html">文化生活</a></li>
+				<li style="border-bottom: 2px solid red;"><a href="contact.html">联系我们</a></li>
+				<li><a href="H5Engineering.html">H5工程</a></li>
+			</ul>
+		</header>
+		<div class="subBanner">
+			<img src="img/bannerH.jpg" />
+		</div>
+		<div class="contact row" id="contact">
+			<div class="w1200">
+
+				<div class="contactinfo wow slideInLeft" data-wow-duration="0.8" style="visibility: visible; animation-name: slideInLeft;">
+					<div class="title">
+						<h2>联系我们</h2>
+					</div>
+					<p class="infolist">北京财经专修学院欢迎您的到来。
+						<br> 欢迎填写表格或发送邮件至：
+						<a href="mailto:hi@beicai.com">hi@beicai.com</a></p>
+					<h1>北京财经专修学院H5工程学院</h1>
+					<p>电话：0898-32297680</p>
+					<p>邮箱：<a href="mailto:hi@beicai.com">hi@beicai.com</a></p>
+					<p>地址：<a href="http://api.map.baidu.com/marker?location=18.312846,109.617865&title=%E7%B1%B3%E9%A5%AD%E7%A7%91%E6%8A%80&content=%E4%BA%91%E6%B8%AF%E5%9B%AD%E5%8C%BA6%E6%A0%8B3%E6%A5%BC&output=html" target="_blank">北京市大兴区西红门镇同华路2号</a></p>
+
+				</div>
+				<div class="contactform wow slideInRight" data-wow-duration="0.8" style="visibility: visible; animation-name: slideInRight;">
+
+					<form enctype="multipart/form-data" method="post">
+						<input type="hidden" name="action" value="post">
+						<input type="hidden" name="diyid" value="1">
+						<input type="hidden" name="do" value="2">
+						<p>
+							<input type="text" name="name" id="name" class="inputtxt " placeholder="姓名">
+
+							<span style="”width:0;overflow:hidden;display:inline-block;float:left;”">&nbsp;</span>
+							<input type="text" name="company" id="company" class="inputtxt line" placeholder="学历">
+
+						</p>
+						<p>
+							<input type="text" name="tel" id="tel" class="inputlong" placeholder="电话">
+
+						</p>
+						<p>
+							<input type="text" name="tel" id="tel" class="inputlong" placeholder="家乡">
+
+						</p>
+						<p>
+							<textarea class="inputtxt" name="content" id="content" cols="30" rows="10" placeholder="学习课程"></textarea>
+
+						</p>
+						<input class="inputsub" type="submit" name="submit" value="提交">
+					</form>
+				</div>
+			</div>
+		</div>
+
+		<footer class="index_footer">
+			<div class="footerMain">
+				<ul class="navUl">
+					<li><a href="index.html">首页</a></li>
+					<li><a href="scholastic.html">学院概况</a></li>
+					<li><a href="new.html">新闻动态</a></li>
+					<li><a href="humanism.html">就业明星</a></li>
+					<li><a href="learning.html">师资力量</a></li>
+					<li><a href="Kultur.html">文化生活</a></li>
+					<li><a href="contact.html">联系我们</a></li>
+					<li><a href="H5Engineering.html">H5工程</a></li>
+				</ul>
+				<p>
+					&copy; 2015 学校 版权所有
+				</p>
+				<ul class="listUl">
+					<li>技术支持： <a href="#">凡科建站</a></li>
+					<li>|</li>
+					<li><a href="#">手机版</a></li>
+					<li>|</li>
+					<li><a href="#">管理登陆</a></li>
+				</ul>
+			</div>
+		</footer>
+	</body>
+
+</html>

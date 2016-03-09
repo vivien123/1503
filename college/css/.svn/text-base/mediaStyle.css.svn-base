@@ -1,0 +1,17 @@
+@media screen and (max-width:740px ) {
+	.index_head ul{
+		position: absolute;
+		left: 0px;
+		top:100px;
+		width: 100%;
+	}
+	.index_head ul li{
+		width: 20%;
+		height:120px;
+		margin-left: 20px;
+		background: #D84C29;
+		
+	}
+	
+	
+}

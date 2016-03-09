@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>学院概况</title>
+		<link rel="stylesheet" type="text/css" href="css/reset.css" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<link rel="stylesheet" type="text/css" href="css/mediaStyle.css" />
+		<script src="js/html5.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/respond.js" type="text/javascript" charset="utf-8"></script>
+
+	</head>
+
+	<body>
+		<header class="index_head">
+			<ul>
+				<li><a href="index.html">首页</a></li>
+				<li style="border-bottom: 2px solid red;"><a href="scholastic.html">学院概况</a></li>
+				<li><a href="new.html">新闻动态</a></li>
+				<li><a href="humanism.html">就业明星</a></li>
+				<li><a href="learning.html">师资力量</a></li>
+				<li><a href="Kultur.html">文化生活</a></li>
+				<li><a href="contact.html">联系我们</a></li>
+				<li><a href="H5Engineering.html">H5工程</a></li>
+			</ul>
+		</header>
+		<div class="subBanner">
+			<img src="img/bannerD.jpg" />
+		</div>
+		<div class="scholastic_main">
+			<div class="index_mian_one_new_top">
+				<div class="left">
+					<h1>学院概况</h1>
+					<h2>SCHOLASTIC</h2>
+				</div>
+			</div>
+
+			<p>
+				北财教育集团是一家面向互联网和电商领域的以专业技能人才培养及电商企业专业团队孵化为核心业务的职业教育机构， 下辖北京财经专修学院、北京北财教育科技有限责任公司、盈通万维科技有限公司及多家相关企业组成。为了适应互联网的发展，北财改革的第一个学院，原《新媒体艺术学院》前后分别设立了“UI设计专业”和“交互工程专业”，目前原《新媒体艺术学院》已更名为《视觉工程学院》，同时由于“交互工程专业”适应了移动互联网的大趋势，引入了HTML5、响应式布局、移动端开发等互联网尖端技术，并于2014年初开设了HTML5实验班，目前HTML5就业情况超出预期，就业实现了平均薪资10000以上，这是北财历史上第一个平均薪资过万的专业，学院人数在2015年已突破1000人，打造了北财历史上第一个千人学院。
+			</p>
+
+			<div class="photo">
+				<div class="photo_bd">
+					<ul class="roundabout-holder" style="padding: 0px; position: relative;">
+						<li><img src="img/scholastic_main1.jpg" alt=""></li>
+						<li><img src="img/scholastic_main2.jpg" alt=""></li>
+						<li><img src="img/scholastic_main3.jpg" alt=""></li>
+					</ul>
+				</div>
+				<div class="line">
+				</div>
+			</div>
+			<p>苹果、谷歌、腾讯、360等大公司都纷纷拥护HTML5，HTML5目前已然成为行业潮流，同时HTML5也打造了移动端、PC端跨平台开发的生态圈，为了迎合市场需求，同时为了给学生提供更好的学习环境和更精专的师资力量，现“交互工程专业”已正式成立为独立学院——H5工程学院。</p>
+			<p>H5工程学院开设了《前端开发》、《前端架构》、《交互开发高级》、《移动端开发》、《移动端开发框架》等移动互联网高端课程，配备了近20名双师型专业教师，为学生的学习和就业奠定了坚实的基础。</p>
+
+		</div>
+		<footer class="index_footer">
+			<div class="footerMain">
+				<ul class="navUl">
+					<li><a href="index.html">首页</a></li>
+					<li><a href="scholastic.html">学院概况</a></li>
+					<li><a href="new.html">新闻动态</a></li>
+					<li><a href="humanism.html">就业明星</a></li>
+					<li><a href="learning.html">师资力量</a></li>
+					<li><a href="Kultur.html">文化生活</a></li>
+					<li><a href="contact.html">联系我们</a></li>
+					<li><a href="H5Engineering.html">H5工程</a></li>
+				</ul>
+				<p>
+					&copy; 2015 学校 版权所有
+				</p>
+				<ul class="listUl">
+					<li>技术支持： <a href="#">凡科建站</a></li>
+					<li>|</li>
+					<li><a href="#">手机版</a></li>
+					<li>|</li>
+					<li><a href="#">管理登陆</a></li>
+				</ul>
+			</div>
+		</footer>
+	</body>
+
+</html>
+
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.roundabout2.js"></script>
+<script>
+	$(document).ready(function() {
+		$('.photo ul').roundabout();
+	});
+</script>
